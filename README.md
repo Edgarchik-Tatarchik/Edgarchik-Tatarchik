@@ -38,6 +38,11 @@
 
 ![Codewars](https://www.codewars.com/users/Eddie_Hise/badges/large)
 
+### 🧠 Coding Practice (Japan)
+
+- paiza: Rank B (Java / Python)  
+  https://paiza.jp
+
 ### 🇯🇵 日本語能力
 - 日本語能力試験 N1
 - 日本漢字能力検定 3級
