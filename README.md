@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Edgar</h1>
+<h3 align="center">IT Student in Tokyo | Aspiring Software Engineer in Japan</h3>
 
-<!--
-**Edgarchik-Tatarchik/Edgarchik-Tatarchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 IT student based in Tokyo, Japan
+- 🇯🇵 JLPT N1
+- 💻 Focused on backend development
+- 🌱 Currently learning Java & Spring
+- 🎯 Goal: Become a professional software engineer in Japan
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask" />
+</p>
+
+**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+**Environment & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+</p>
+
+*Spring is currently under active learning.*
+
+### 📌 What I'm Currently Learning
+- Java & Spring framework fundamentals
+- Build and dependency management with Maven / Gradle
+- SQL and database access using JDBC
+- Basics of containerization (Docker)
+- Understanding multithreading and concurrency in Java
+
+
+### 🇯🇵 日本語能力
+- 日本語能力試験 N1
+- 日本漢字能力検定 3級
+
+### 📫 Contact
+- email: atsw332@gmail.com
+- GitHub: https://github.com/Edgarchik-Tatarchik
