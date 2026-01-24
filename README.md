@@ -34,6 +34,9 @@
 - Basics of containerization (Docker)
 - Understanding multithreading and concurrency in Java
 
+### 🧠 Coding Practice (Codewars)
+
+![Codewars](https://www.codewars.com/users/Eddie_Hise/badges/large)
 
 ### 🇯🇵 日本語能力
 - 日本語能力試験 N1
