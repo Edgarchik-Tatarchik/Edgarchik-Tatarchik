@@ -1,14 +1,22 @@
-<h1 align="center">Hello! I'm Edgar</h1>
-<h3 align="center">IT Student in Tokyo | Aspiring Software Engineer in Japan</h3>
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-<img src="https://share.google/images/7whteN153QagF7NuP" width="200" />
+<h1>Hello! I'm Edgar</h1>
+<h3>IT Student in Tokyo | Aspiring Software Engineer in Japan</h3>
 
+- 🎓 IT student based in Tokyo, Japan  
+- 🇯🇵 JLPT N1  
+- 💻 Focused on backend development  
+- 🌱 Currently learning Java & Spring  
+- 🎯 Goal: Become a professional software engineer in Japan  
 
-- 🎓 IT student based in Tokyo, Japan
-- 🇯🇵 JLPT N1
-- 💻 Focused on backend development
-- 🌱 Currently learning Java & Spring
-- 🎯 Goal: Become a professional software engineer in Japan
+    </td>
+    <td width="35%" align="right">
+      <img src="https://i.gifer.com/origin/d2/d2949e1d77e91471ef807e909d416d26.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 ### 🛠 Tech Stack
