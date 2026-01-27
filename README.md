@@ -1,6 +1,9 @@
 <h1 align="center">Hello! I'm Edgar</h1>
 <h3 align="center">IT Student in Tokyo | Aspiring Software Engineer in Japan</h3>
 
+<img src="https://share.google/images/7whteN153QagF7NuP" />
+
+
 - 🎓 IT student based in Tokyo, Japan
 - 🇯🇵 JLPT N1
 - 💻 Focused on backend development
