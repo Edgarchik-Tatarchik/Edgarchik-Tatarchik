@@ -13,7 +13,7 @@
 
     </td>
     <td width="35%" align="right">
-      <img src="https://i.gifer.com/origin/d2/d2949e1d77e91471ef807e909d416d26.gif" width="250" />
+      <img src="https://i.makeagif.com/media/5-30-2016/c32h7n.gif" width="300" />
     </td>
   </tr>
 </table>
