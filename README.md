@@ -33,7 +33,7 @@
 
 **Environment & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,hibernate,mavel" />
 </p>
 
 *Spring is currently under active learning.*
