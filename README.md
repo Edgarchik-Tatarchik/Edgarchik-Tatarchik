@@ -28,12 +28,12 @@
 
 **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
 **Environment & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,hibernate,maven" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,hibernate,maven,oracle" />
 </p>
 
 *Spring is currently under active learning.*
