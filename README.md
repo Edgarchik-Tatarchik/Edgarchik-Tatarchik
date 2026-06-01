@@ -7,8 +7,8 @@
 
 - 🎓 IT student based in Tokyo, Japan  
 - 🇯🇵 JLPT N1  
-- 💻 Focused on backend development  
-- 🌱 Currently learning Java & Spring  
+- 💻 Focused on fullstack development  
+- 🌱 Currently learning TypeScript and React  
 - 🎯 Goal: Become a professional software engineer in Japan  
 
     </td>
